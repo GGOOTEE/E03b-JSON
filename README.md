@@ -1,4 +1,4 @@
-# E03b-JSON - GRAYSON GOOTEE 220
+# E03b-JSON - GRAYSON GOOTEE C220
 This exercise will give you the opportunity to edit an existing JSON file (in the game-description format we are using for MSCH-C220). Fork and Clone this repository and then make the following edits to zork.json:
 
  - Change the exit in FORE3 from UP to DOWN (DONE)
